@@ -228,8 +228,8 @@ body {
 .hero-dot-1 {
 	height: 14px;
 	width: 14px;
-	right: 15%;
-	top: -20%;
+	right: 35%;
+    top: -25%;
 	background: var(--light-purple);
 }
 
@@ -245,8 +245,8 @@ body {
 	width: 17px;
 	height: 17px;
 	background: var(--purple);
-	bottom: 10%;
-	left: 45%;
+	bottom: 0%;
+	left: 35%;
 }
 
 .hero-dot-4 {
@@ -254,7 +254,7 @@ body {
 	height: 8px;
 	background: var(--light-purple);
 	bottom: -20%;
-	right: 30%;
+	right: 25%;
 }
 
 .hero-star {
